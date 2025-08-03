@@ -1,7 +1,7 @@
 # LearnMate: AI-Powered Personalized Learning Coach
 
-![LearnMate Demo Screenshot](assets/demo-screenshot.png)  
-*Figure 1: LearnMate's adaptive course recommendation interface*
+![LearnMate Demo Screenshot](https://github.com/niyati666/LearnMate_Agent/blob/main/Images/Deployed_Agent.png)  
+*LearnMate*
 
 ## 📌 Overview
 LearnMate is an **Agentic AI** that acts as a personalized learning coach, helping students navigate the overwhelming landscape of online courses. It:
@@ -59,42 +59,29 @@ WATSONX_PROJECT_ID = your_project_id
 ```bash
 python app.py
 ```
-## 📂 Repository Structure
-```text
-LearnMate/
-├── assets/               # Demo screenshots/figures
-├── src/
-│   ├── agent_core/       # IBM Granite interaction logic
-│   ├── progress_tracker/ # Cloudant database handlers
-│   └── recommender/      # Course matching algorithms
-├── tests/                # Unit/integration tests
-├── requirements.txt      # Python dependencies
-└── config.ini            # IBM Cloud credentials
-```
-## 📊 Results
 
+## 📊 Results
+![LearnMate Demo Screenshot](https://github.com/niyati666/LearnMate_Agent/blob/main/Images/Result_1.png)
+![LearnMate Demo Screenshot](https://github.com/niyati666/LearnMate_Agent/blob/main/Images/Result_2.png)
+![LearnMate Demo Screenshot](https://github.com/niyati666/LearnMate_Agent/blob/main/Images/Mockup_personalised_Dashboard_1.png)
+![LearnMate Demo Screenshot](https://github.com/niyati666/LearnMate_Agent/blob/main/Images/Mockup_personalised_Dashboard_2.png)
 
 ## 🌟 Future Work
 - AI Tutor Integration: Real-time coding assistance.
-
 - Scholarship Matching: Recommends funding opportunities.
-
 - VR Labs: Hands-on practice for fields like cybersecurity.
 
 ## 📜 IBM Certifications
-- IBM AI Fundamentals
-- RAG Lab Completion Certificate
+![IBMAIFundamentals](https://github.com/niyati666/LearnMate_Agent/blob/main/Images/Getting_Started_with_AI.png)
+*Getting Started with AI*
+![RAG Lab Completion Certificate](https://github.com/niyati666/LearnMate_Agent/blob/main/Images/RAG.png)
 
 ## 🤝 How to Contribute
 1. Fork the repository.
-
 2. Submit PRs for:
 - Enhanced course recommendation algorithms.
 - Additional LMS platform integrations.
-
 3. Report bugs via Issues.
 
-## 📞 Contact
-For collaborations or queries:
-your.email@university.edu
-LinkedIn Profile
+## ✨ Credits
+Developed as part of Edunet IBM internship projects.
