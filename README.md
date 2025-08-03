@@ -1,4 +1,5 @@
-# LearnMate: AI-Powered Personalized Learning Coach
+# LearnMate
+## AI-Powered Personalized Learning Coach
 
 ![LearnMate Demo Screenshot](https://github.com/niyati666/LearnMate_Agent/blob/main/Images/Deployed_Agent.png)  
 *LearnMate*
