@@ -1,0 +1,27 @@
+# Core Requirements for LearnMate AI Agent
+# Python 3.8+ recommended
+
+### IBM Cloud Services
+ibm-watson-machine-learning==1.0.6  # For Watsonx.ai integration
+ibm-cloud-sdk-core==3.16.1          # Authentication
+ibm-cloudant==4.6.2                 # Student progress storage
+
+### API Integrations
+requests==2.31.0                    # For Coursera/edX API calls
+python-dotenv==1.0.0                # Environment variables
+
+### Data Processing
+pandas==2.0.3                       # For course dataset analysis
+numpy==1.24.3                       # Data calculations
+
+### NLP/ML Support
+transformers==4.33.3                # For Granite model interactions
+sentence-transformers==2.2.2        # Semantic search for course matching
+
+### Testing & Debugging
+pytest==7.4.0                       # Unit tests
+python-decouple==3.8                # Configuration management
+
+### Documentation
+mkdocs==1.5.2                       # Project documentation
+mkdocs-material==9.4.1              # Documentation theme
