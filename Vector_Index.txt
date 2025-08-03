@@ -1,0 +1,222 @@
+# LearnMate AI - Student Dataset (20 Complete Entries)
+# Format: Student ID | Interests | Skill Level | Goals | Recommended Pathway | Progress
+
+----- STUDENT 01 -----
+ID: S001
+Interests: Frontend Development
+Skill Level: Beginner
+Goals: Build personal portfolio website in 4 months
+Pathway:
+1. HTML5/CSS3 Fundamentals (Codecademy, 4 weeks)
+2. JavaScript Basics (Scrimba, 5 weeks)
+3. Responsive Design Projects (freeCodeCamp, 3 weeks)
+Progress: 20% (Completed Week 1 of HTML/CSS)
+
+----- STUDENT 02 -----
+ID: S002
+Interests: Cybersecurity, Ethical Hacking
+Skill Level: Intermediate
+Goals: OSCP Certification within 1 year
+Pathway:
+1. Penetration Testing Basics (TryHackMe, 8 weeks)
+2. Network Security (Pluralsight, 6 weeks)
+3. OSCP Prep Labs (Offensive Security, 12 weeks)
+Progress: 10% (Started TryHackMe modules)
+
+----- STUDENT 03 -----
+ID: S003
+Interests: Data Science, Python
+Skill Level: Beginner
+Goals: Transition from marketing to data analysis
+Pathway:
+1. Python for Beginners (DataCamp, 6 weeks)
+2. Pandas/NumPy Fundamentals (Kaggle, 4 weeks)
+3. Data Visualization with Matplotlib (Udacity, 3 weeks)
+Progress: 5% (Enrolled in Python course)
+
+----- STUDENT 04 -----
+ID: S004
+Interests: UI/UX Design, Figma
+Skill Level: Advanced
+Goals: Lead design team at startup
+Pathway:
+1. Advanced Prototyping (Figma Academy, 3 weeks)
+2. UX Strategy Masterclass (NN/g, 5 weeks)
+3. Design Systems (YouTube, 4 weeks)
+Progress: 65% (Completed Prototyping)
+
+----- STUDENT 05 -----
+ID: S005
+Interests: Cloud Computing, AWS
+Skill Level: Intermediate
+Goals: AWS Solutions Architect Associate cert
+Pathway:
+1. AWS Cloud Practitioner (A Cloud Guru, 4 weeks)
+2. Terraform for DevOps (Udemy, 6 weeks)
+3. SA Associate Prep (ExamPro, 8 weeks)
+Progress: 30% (Passed Cloud Practitioner)
+
+----- STUDENT 06 -----
+ID: S006
+Interests: Game Development, Unity
+Skill Level: Beginner
+Goals: Publish mobile game on Play Store
+Pathway:
+1. C# Basics for Unity (Unity Learn, 5 weeks)
+2. 2D Game Development (Coursera, 7 weeks)
+3. Monetization Strategies (YouTube, 2 weeks)
+Progress: 0% (Not yet started)
+
+----- STUDENT 07 -----
+ID: S007
+Interests: DevOps, Docker
+Skill Level: Intermediate
+Goals: CI/CD pipeline implementation
+Pathway:
+1. Docker Deep Dive (KodeKloud, 4 weeks)
+2. Kubernetes Essentials (Linux Foundation, 6 weeks)
+3. GitHub Actions (Pluralsight, 3 weeks)
+Progress: 40% (Completed Docker course)
+
+----- STUDENT 08 -----
+ID: S008
+Interests: Machine Learning, TensorFlow
+Skill Level: Advanced
+Goals: Research paper on NLP
+Pathway:
+1. Advanced TensorFlow (DeepLearning.AI, 8 weeks)
+2. Research Methodology (Fast.ai, 4 weeks)
+3. Academic Writing (Coursera, 3 weeks)
+Progress: 75% (Finalizing TensorFlow projects)
+
+----- STUDENT 09 -----
+ID: S009
+Interests: Blockchain, Solidity
+Skill Level: Beginner
+Goals: Build first smart contract
+Pathway:
+1. Blockchain Basics (edX, 5 weeks)
+2. Solidity 101 (CryptoZombies, 6 weeks)
+3. Hardhat Framework (YouTube, 3 weeks)
+Progress: 15% (Started Blockchain Basics)
+
+----- STUDENT 10 -----
+ID: S010
+Interests: Digital Marketing, SEO
+Skill Level: Intermediate
+Goals: Freelance SEO consultant
+Pathway:
+1. Advanced SEO (Ahrefs Academy, 5 weeks)
+2. Content Strategy (HubSpot, 4 weeks)
+3. Google Analytics (Google Cert, 3 weeks)
+Progress: 50% (Completed SEO course)
+
+----- STUDENT 11 -----
+ID: S011
+Interests: iOS Development, SwiftUI
+Skill Level: Beginner
+Goals: Publish App Store app
+Pathway:
+1. Swift Fundamentals (Apple Dev, 6 weeks)
+2. SwiftUI Essentials (DesignCode, 5 weeks)
+3. App Store Submission (RayWenderlich, 2 weeks)
+Progress: 10% (Learning Swift basics)
+
+----- STUDENT 12 -----
+ID: S012
+Interests: Quantum Computing, Qiskit
+Skill Level: Advanced
+Goals: IBM Quantum Challenge
+Pathway:
+1. Linear Algebra for QC (MIT OCW, 6 weeks)
+2. Qiskit SDK (IBM Quantum, 8 weeks)
+3. Quantum Algorithms (Coursera, 5 weeks)
+Progress: 60% (Completed Qiskit basics)
+
+----- STUDENT 13 -----
+ID: S013
+Interests: Robotics, ROS
+Skill Level: Intermediate
+Goals: Build autonomous rover
+Pathway:
+1. ROS Fundamentals (TurtleBot, 7 weeks)
+2. SLAM Algorithms (Udemy, 6 weeks)
+3. CAD for Robotics (Autodesk, 4 weeks)
+Progress: 25% (Started ROS modules)
+
+----- STUDENT 14 -----
+ID: S014
+Interests: AR/VR, Unity
+Skill Level: Beginner
+Goals: Museum AR exhibition
+Pathway:
+1. AR Foundation (Unity Learn, 6 weeks)
+2. 3D Modeling Basics (Blender, 5 weeks)
+3. UX for XR (Udacity, 4 weeks)
+Progress: 5% (Installing tools)
+
+----- STUDENT 15 -----
+ID: S015
+Interests: Embedded Systems, Arduino
+Skill Level: Intermediate
+Goals: Smart home automation
+Pathway:
+1. C++ for Embedded (Coursera, 5 weeks)
+2. IoT Protocols (edX, 4 weeks)
+3. Home Assistant (YouTube, 3 weeks)
+Progress: 35% (Completed C++ course)
+
+----- STUDENT 16 -----
+ID: S016
+Interests: Bioinformatics, Python
+Skill Level: Advanced
+Goals: DNA sequence analysis tool
+Pathway:
+1. Biopython (Coursera, 6 weeks)
+2. Genomic Data Science (Johns Hopkins, 8 weeks)
+3. Algorithm Optimization (MIT OCW, 5 weeks)
+Progress: 80% (Finalizing Biopython)
+
+----- STUDENT 17 -----
+ID: S017
+Interests: DevOps, Azure
+Skill Level: Intermediate
+Goals: AZ-900 Certification
+Pathway:
+1. Azure Fundamentals (Microsoft Learn, 4 weeks)
+2. ARM Templates (Pluralsight, 5 weeks)
+3. CI/CD with Azure (A Cloud Guru, 4 weeks)
+Progress: 20% (Started Azure Fundamentals)
+
+----- STUDENT 18 -----
+ID: S018
+Interests: Cybersecurity, Digital Forensics
+Skill Level: Beginner
+Goals: Entry-level SOC analyst
+Pathway:
+1. Security Fundamentals (Cybrary, 6 weeks)
+2. Wireshark Basics (TryHackMe, 4 weeks)
+3. SIEM Tools (Splunk, 3 weeks)
+Progress: 0% (Researching options)
+
+----- STUDENT 19 -----
+ID: S019
+Interests: Data Engineering, SQL
+Skill Level: Advanced
+Goals: Build real-time data pipeline
+Pathway:
+1. Advanced SQL (DataCamp, 4 weeks)
+2. Apache Kafka (Udemy, 6 weeks)
+3. Airflow Orchestration (YouTube, 5 weeks)
+Progress: 55% (Completed SQL)
+
+----- STUDENT 20 -----
+ID: S020
+Interests: Technical Writing, API Docs
+Skill Level: Intermediate
+Goals: Lead docs team at tech company
+Pathway:
+1. Markdown/DITA (Write the Docs, 3 weeks)
+2. API Documentation (Postman, 5 weeks)
+3. Developer Experience (Udemy, 4 weeks)
+Progress: 45% (Completed Markdown course)
